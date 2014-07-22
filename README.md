@@ -1,4 +1,4 @@
 google-clone
 ============
 
-My clone of google's front page.  An exercise in using HTML and CSS to achieve a desired interface.
+My clone of google's front page.  An exercise in using HTML and CSS to achieve a desired interface.  Open google in a private window to compare to the clone (i.e. don't be signed into google);  Set clone zoom to 110% and actual google home page to 100%.
